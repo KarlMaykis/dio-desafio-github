@@ -9,7 +9,7 @@
 
 - **git add ""** -> *adiciona o arquivo selecionado dentro das aspas.*
 
-- **git add . ou ** -> *adiciona todos os arquivos pendentes.*
+- **git add . ou asterisco** -> *adiciona todos os arquivos pendentes.*
 
 - **git commit -m ""** -> *cria versão do projeto com mensagem indicando o que foi feito para melhor organizar(boa prática).
 
