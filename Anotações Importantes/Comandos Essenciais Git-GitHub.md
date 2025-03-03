@@ -9,9 +9,10 @@
 
 - **git add ""** -> *adiciona o arquivo selecionado dentro das aspas.*
 
-- **git add . ou *** -> *adiciona todos os arquivos pendentes.*
+- **git add . ou ** -> *adiciona todos os arquivos pendentes.*
 
-- **git commit -m ""** -> *cria versão do projeto com mensagem indicando o que foi feito para melhor organizar(boa prática).*
+- **git commit -m ""** -> *cria versão do projeto com mensagem indicando o que foi feito para melhor organizar(boa prática).
+
 - **git config --global user.email "you@example.com"** -> *registrar para fazer commit.*
 
 - **git config --global user.name "Your Name"** -> *registrar para fazer commit.*
