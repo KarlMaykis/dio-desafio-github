@@ -11,7 +11,7 @@
 
 - **git add . ou asterisco** -> *adiciona todos os arquivos pendentes.*
 
-- **git commit -m ""** -> *cria versão do projeto com mensagem indicando o que foi feito para melhor organizar(boa prática).
+- **git commit -m ""** -> *cria versão do projeto com mensagem indicando o que foi feito para melhor organizar(boa prática).*
 
 - **git config --global user.email "you@example.com"** -> *registrar para fazer commit.*
 
