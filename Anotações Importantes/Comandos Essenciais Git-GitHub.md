@@ -1,11 +1,11 @@
 # Comandos Básicos Essenciais:
 
 
-- **git init** -> *para criar o diretório .git
+- **git init** -> *para criar o diretório .git*
 
-- **git status** -> *Verifica a situação de pendências para inclusão de arquivos.
+- **git status** -> *Verifica a situação de pendências para inclusão de arquivos.*
 
-- **touch** -> *cria arquivo no diretório corrente.
+- **touch** -> *cria arquivo no diretório corrente.*
 
 - **git add ""** -> *adiciona o arquivo selecionado dentro das aspas.
 
